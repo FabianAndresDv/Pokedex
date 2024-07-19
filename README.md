@@ -13,4 +13,14 @@ un botón.
 Uso de componentes
 UI , DM
 
+Installation
+To install the application just run:
+
+npm -g install @cells/cells-cli
+Once installed, cells command will be available to you.
+
+Usage
+Starting the application in dev mode
+cells app:serve -c dev.js
+
 
